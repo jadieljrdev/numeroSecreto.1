@@ -1,15 +1,13 @@
 
 ![Front-end-Lógica de programação_ mergulhe em programação com javascript](https://github.com/jadieljrdev/numeroSecreto.1/assets/136523407/4e696b94-04d9-4fbd-bc42-15acd838472e)
 
-![](https://img.shields.io/github/license/alura-cursos/android-com-kotlin-personalizando-ui)
-
 # Alura Jogo Secreto
 
 Um jogo de adivinhação onde você usuário vai chutar o número e o jogo vai informar se você acertou ou não.
 
 ## 🔨 Funcionalidades do projeto
 
-Ele compara o número do chute com o número Secreto e criado, Caso de acerto, ele demonstra uma mensagem com a quantidade de tentativas e o número Secreto. Em caso de erro ele demonstra uma dica, caso número é maior ou menor que o número secreto.
+Ele compara o número do chute com o número Secreto, Caso de acerto, ele demonstra uma mensagem com a quantidade de tentativas e o número Secreto. Em caso de erro ele demonstra uma dica, caso número é maior ou menor que o número secreto.
 
 
 ## ✔️ Técnicas e tecnologias utilizadas
